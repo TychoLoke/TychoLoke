@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&repeat=true&width=500&lines=Azure+%26+Cloud+Architecture;Microsoft+365+%26+Security;Infrastructure+as+Code;Zero+Trust+Advocate)](https://tycholoke.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&repeat=true&width=600&lines=Azure+%26+Cloud+Architecture;Full+Stack+Developer;Microsoft+365+%26+Security;Infrastructure+as+Code;Zero+Trust+Advocate;Vue+%7C+React+%7C+Go+Enthusiast)](https://tycholoke.com)
 
 <br/>
 
@@ -21,6 +21,9 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/M365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
@@ -33,21 +36,29 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```ts
-const tycho: CloudArchitect = {
+const tycho: CloudArchitect & Developer = {
   location: "Netherlands",
   role: "Technical Consultant @ PeopleRock",
 
   expertise: [
     "Azure & Cloud Architecture",
     "Microsoft 365 & Entra ID",
+    "Full Stack Development",
     "Identity & Security",
     "Infrastructure as Code"
+  ],
+
+  currentlyLearning: [
+    "Kubernetes",
+    "Rust",
+    "AI/ML Integration"
   ],
 
   focus: [
     "Zero Trust Architecture",
     "Cloud Security",
-    "Automation & DevOps"
+    "Automation & DevOps",
+    "Modern Web Development"
   ],
 
   interests: ["F1", "Travel", "Gaming"]
@@ -62,49 +73,232 @@ const tycho: CloudArchitect = {
 
 <div align="center">
 
+### ☁️ Cloud & Infrastructure
 <table>
 <tr>
-<td align="center" width="150">
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
 <br/><sub><b>Azure</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br/><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br/><sub><b>GCP</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
 <br/><sub><b>Terraform</b></sub>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-<br/><sub><b>PowerShell</b></sub>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br/><sub><b>Docker</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br/><sub><b>Kubernetes</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
 <br/><sub><b>Cloudflare</b></sub>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-<br/><sub><b>Windows</b></sub>
-</td>
 </tr>
+</table>
+
+### 🎨 Frontend Development
+<table>
 <tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br/><sub><b>VS Code</b></sub>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+<br/><sub><b>Vue.js</b></sub>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br/><sub><b>Git</b></sub>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
+<br/><sub><b>Nuxt.js</b></sub>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br/><sub><b>GitHub</b></sub>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br/><sub><b>React</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br/><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br/><sub><b>JavaScript</b></sub>
 </td>
-<td align="center" width="150">
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br/><sub><b>Tailwind</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br/><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br/><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+<br/><sub><b>Sass</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+<br/><sub><b>Svelte</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
+<br/><sub><b>Astro</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br/><sub><b>Vite</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+<br/><sub><b>Webpack</b></sub>
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend Development
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br/><sub><b>Go</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br/><sub><b>Rust</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br/><sub><b>C#</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+<br/><sub><b>.NET</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br/><sub><b>GraphQL</b></sub>
+</td>
+</tr>
+</table>
+
+### 🗄️ Databases & Storage
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br/><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br/><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+<br/><sub><b>SQLite</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br/><sub><b>Supabase</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br/><sub><b>Firebase</b></sub>
+</td>
+</tr>
+</table>
+
+### 🛠️ DevOps & Tools
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Actions" />
+<br/><sub><b>Actions</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+<br/><sub><b>GitLab</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+<br/><sub><b>Jenkins</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+<br/><sub><b>Ansible</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+<br/><sub><b>Prometheus</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
+<br/><sub><b>PowerShell</b></sub>
+</td>
+<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
 <br/><sub><b>Bash</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+<br/><sub><b>Windows</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br/><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
+<br/><sub><b>Vim</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br/><sub><b>Nginx</b></sub>
 </td>
 </tr>
 </table>
@@ -117,7 +311,7 @@ const tycho: CloudArchitect = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-tycho-lokes-projects.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB800&icon_color=FFB800&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats-tycho-lokes-projects.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB800&icon_color=FFB800&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tycholoke&hide_border=true&background=0D1117&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=c9d1d9&dates=6e7681" />
 
 </div>
@@ -126,7 +320,25 @@ const tycho: CloudArchitect = {
 
 <div align="center">
 
+<img width="40%" src="https://github-readme-stats-tycho-lokes-projects.vercel.app/api/top-langs/?username=tycholoke&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB800&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=0d1117&color=FFB800&line=FFB800&point=ffffff&area=true&hide_border=true&area_color=FFB80030)](https://github.com/tycholoke)
+
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tycholoke&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/tycholoke)
 
 </div>
 
