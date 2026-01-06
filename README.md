@@ -1,171 +1,177 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Tycho%20Loke&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Technical%20Consultant%20%7C%20Cloud%20Architect%20%7C%20Technology%20Enthusiast&descAlignY=55&descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Tycho%20Loke&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Technical%20Consultant%20%7C%20Cloud%20Architect%20%7C%20Technology%20Enthusiast&descAlignY=55&descSize=18" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Tycho%20Loke&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Technical%20Consultant%20%7C%20Cloud%20Architect%20%7C%20Technology%20Enthusiast&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
 </picture>
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Passionate+about+Microsoft+Technologies;Azure+%26+Cloud+Architecture+Expert;Driving+Innovation+in+the+IT+Community;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&repeat=true&width=500&lines=Azure+%26+Cloud+Architecture;Microsoft+365+%26+Security;Infrastructure+as+Code;Zero+Trust+Advocate)](https://tycholoke.com)
 
-  <br/>
+<br/>
 
-  [![Website](https://img.shields.io/badge/CurrentCloud.net-667eea?style=for-the-badge&logo=googlechrome&logoColor=white)](https://currentcloud.net)
-  [![Website](https://img.shields.io/badge/TychoLoke.com-764ba2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tycholoke.com)
-  [![Twitter](https://img.shields.io/badge/@TychoLoke-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=TychoLoke)
-  [![Profile Views](https://komarev.com/ghpvc/?username=tycholoke&style=for-the-badge&color=667eea)](https://github.com/TychoLoke)
+[![Website](https://img.shields.io/badge/tycholoke.com-FFB800?style=for-the-badge&logo=safari&logoColor=black)](https://tycholoke.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB800?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/tycholoke)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/@TychoLoke-FFB800?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/TychoLoke)
+
+<br/>
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/M365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" /> &nbsp;About Me
+## About
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```yaml
-name: Tycho Loke
-located_in: Netherlands
-current_role: Technical Consultant
-company: PeopleRock
+```ts
+const tycho: CloudArchitect = {
+  location: "Netherlands",
+  role: "Technical Consultant @ PeopleRock",
 
-fields_of_interest:
-  - Azure & Cloud Architecture
-  - Microsoft 365
-  - Identity & Security (Entra ID)
-  - Modern Workplace Solutions
-  - Infrastructure as Code
+  expertise: [
+    "Azure & Cloud Architecture",
+    "Microsoft 365 & Entra ID",
+    "Identity & Security",
+    "Infrastructure as Code"
+  ],
 
-currently_exploring:
-  - Advanced Azure Security
-  - Zero Trust Architecture
-  - Automation & DevOps
+  focus: [
+    "Zero Trust Architecture",
+    "Cloud Security",
+    "Automation & DevOps"
+  ],
 
-hobbies:
-  - 🏎️ Formula 1
-  - ✈️ Traveling
-  - 🎮 Gaming
-
-fun_fact: "Striving to become a well-known figure in the IT community!"
+  interests: ["F1", "Travel", "Gaming"]
+};
 ```
 
-<br clear="right"/>
+<br clear="both"/>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="28" /> &nbsp;Currently Listening To
+## Tech Stack
 
 <div align="center">
 
-  [![Spotify](https://spvercel.currentcloud.net/api/spotify)](https://open.spotify.com/user/1197337261)
-
-  <a href="https://open.spotify.com/playlist/3bSI6EvAOiQyr3T0DgB6ed?si=b042e9c23d884533">
-    <img src="https://img.shields.io/badge/🎸%20Epic%20Rock%20Legacy-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Playlist"/>
-  </a>
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br/><sub><b>Azure</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+<br/><sub><b>Terraform</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
+<br/><sub><b>PowerShell</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+<br/><sub><b>Cloudflare</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+<br/><sub><b>Windows</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br/><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br/><sub><b>Bash</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+## GitHub Stats
 
 <div align="center">
 
-### ☁️ Cloud & Infrastructure
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
-[![Terraform](https://skillicons.dev/icons?i=terraform)](#)
-[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](#)
-[![Windows](https://skillicons.dev/icons?i=windows)](#)
-
-### 💻 Development & Scripting
-[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://www.powershellgallery.com/)
-[![Bash](https://skillicons.dev/icons?i=bash)](#)
-[![JavaScript](https://skillicons.dev/icons?i=js)](#)
-[![PHP](https://skillicons.dev/icons?i=php)](#)
-[![HTML](https://skillicons.dev/icons?i=html)](#)
-[![CSS](https://skillicons.dev/icons?i=css)](#)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](#)
-[![MD](https://skillicons.dev/icons?i=md)](#)
-
-### 🛠️ Tools & Platforms
-[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Git](https://skillicons.dev/icons?i=git)](#)
-[![GitHub](https://skillicons.dev/icons?i=github)](#)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](#)
-
-### 🎨 Design & Creative
-[![Photoshop](https://skillicons.dev/icons?i=ps)](#)
-[![After Effects](https://skillicons.dev/icons?i=ae)](#)
-[![Premiere](https://skillicons.dev/icons?i=pr)](#)
-[![Audition](https://skillicons.dev/icons?i=au)](#)
-[![Figma](https://skillicons.dev/icons?i=figma)](#)
-[![Discord](https://skillicons.dev/icons?i=discord)](#)
+<img width="49%" src="https://github-readme-stats-tycho-lokes-projects.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB800&icon_color=FFB800&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tycholoke&hide_border=true&background=0D1117&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=c9d1d9&dates=6e7681" />
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
+<br/>
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats-tycho-lokes-projects.vercel.app/api?username=tycholoke&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tycholoke&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" />
-
-  <br/>
-
-  <img width="40%" src="https://github-readme-stats-tycho-lokes-projects.vercel.app/api/top-langs/?username=tycholoke&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=0d1117&color=FFB800&line=FFB800&point=ffffff&area=true&hide_border=true&area_color=FFB80030)](https://github.com/tycholoke)
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" alt="Trophy" width="28" /> &nbsp;GitHub Trophies
+## Now Playing
 
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=tycholoke&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Spotify](https://novatorem-tycholoke.vercel.app/api/spotify)](https://open.spotify.com/user/1197337261)
 
 </div>
 
----
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="28" /> &nbsp;Contribution Graph
+## Connect
 
 <div align="center">
 
-  [![Tycho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://tycholoke.com">
+  <img src="https://img.shields.io/badge/tycholoke.com-FFB800?style=for-the-badge&logo=safari&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/tycholoke">
+  <img src="https://img.shields.io/badge/LinkedIn-FFB800?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+&nbsp;
+<a href="mailto:tycho.loke@peoplerock.nl">
+  <img src="https://img.shields.io/badge/Email-FFB800?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://twitter.com/TychoLoke">
+  <img src="https://img.shields.io/badge/Twitter-FFB800?style=for-the-badge&logo=x&logoColor=black" />
+</a>
+
+<br/><br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=tycholoke&style=flat-square&color=FFB800&label=Profile+Views)
 
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="28" /> &nbsp;Connect With Me
+<br/>
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tycholoke)
-  [![CurrentCloud](https://img.shields.io/badge/CurrentCloud-667eea?style=for-the-badge&logo=googlechrome&logoColor=white)](https://currentcloud.net)
-  [![Email](https://img.shields.io/badge/Email-764ba2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tycho.loke@peoplerock.nl)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TychoLoke)
-
-  <br/><br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="60" />
-
-  ### Thanks for visiting! Let's connect and build something amazing together.
-
-  <br/>
-
-  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=100&section=footer" width="100%" />
 
 </div>
