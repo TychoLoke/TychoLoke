@@ -1,12 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Architect%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Channel%20Strategist%20%26%20MSP%20Advisor%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Channel%20Strategist%20%26%20MSP%20Advisor%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB800,100:FFD54F&height=200&section=header&text=Tycho%20Loke&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Channel%20Strategist%20%26%20MSP%20Advisor%20%E2%80%A2%20tycholoke.com&descAlignY=55&descSize=18" />
 </picture>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&repeat=true&width=600&lines=Azure+%26+Cloud+Architecture;Full+Stack+Developer;Microsoft+365+%26+Security;Infrastructure+as+Code;Zero+Trust+Advocate;Vue+%7C+React+%7C+Go+Enthusiast)](https://tycholoke.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&repeat=true&width=600&lines=Channel+Strategist+%26+MSP+Advisor;Microsoft+365+%26+Azure+Expert;MSP+Speaker+%26+Trainer;Cloud+Security+%26+Transformation;Helping+MSPs+Modernize+%26+Grow)](https://tycholoke.com)
 
 <br/>
 
@@ -36,29 +36,30 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```ts
-const tycho: CloudArchitect & Developer = {
+const tycho: ChannelStrategist & MSPAdvisor = {
   location: "Netherlands",
-  role: "Technical Consultant @ PeopleRock",
+  role: "Founder @ Tycho Loke Consulting",
 
   expertise: [
-    "Azure & Cloud Architecture",
-    "Microsoft 365 & Entra ID",
-    "Full Stack Development",
-    "Identity & Security",
-    "Infrastructure as Code"
+    "Channel Strategy & MSP Advisory",
+    "Microsoft 365 & Azure",
+    "Cybersecurity & Cloud Transformation",
+    "Keynote Speaking & Training",
+    "IT Business Consulting"
   ],
 
-  currentlyLearning: [
-    "Kubernetes",
-    "Rust",
-    "AI/ML Integration"
+  services: [
+    "Strategic Advisory for MSPs",
+    "Keynote Speaking",
+    "Training & Workshops",
+    "Microsoft Advisory Services"
   ],
 
   focus: [
-    "Zero Trust Architecture",
-    "Cloud Security",
-    "Automation & DevOps",
-    "Modern Web Development"
+    "Helping MSPs Modernize & Grow",
+    "Security & Compliance",
+    "Digital Transformation",
+    "Channel Enablement"
   ],
 
   interests: ["F1", "Travel", "Gaming"]
@@ -338,7 +339,7 @@ const tycho: CloudArchitect & Developer = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=tycholoke&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/tycholoke)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=tycholoke&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/tycholoke)
 
 </div>
 
@@ -348,7 +349,9 @@ const tycho: CloudArchitect & Developer = {
 
 <div align="center">
 
-[![Spotify](https://novatorem-tycholoke.vercel.app/api/spotify)](https://open.spotify.com/user/1197337261)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1197337261)
+
+*Follow me on Spotify!*
 
 </div>
 
