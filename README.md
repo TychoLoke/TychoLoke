@@ -3,12 +3,7 @@
 <h3 align="center">Co-Founder, operator, channel engineer, and founder across Microsoft, AI, SaaS, and game hosting.</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=tycholoke">
-    <img src="https://komarev.com/ghpvc/?username=tycholoke&label=Profile%20views&color=0B132B&style=flat" alt="tycholoke" />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tycholoke&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="tycholoke trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=tycholoke&label=Profile%20views&color=0B132B&style=flat" alt="tycholoke" />
 </p>
 
 <p align="center">
@@ -121,14 +116,30 @@ stack:
 ### GitHub Snapshot
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tycholoke&show_icons=true&theme=transparent&hide_border=true&title_color=0B132B&icon_color=F4B942&text_color=3A506B&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tycholoke&show_icons=true&theme=transparent&hide_border=true&title_color=0B132B&text_color=3A506B&layout=compact" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=F8FBFF&icon_color=5BC0BE&text_color=D9E6F2&count_private=true&include_all_commits=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=0B132B&icon_color=F4B942&text_color=3A506B&count_private=true&include_all_commits=true" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=0B132B&icon_color=F4B942&text_color=3A506B&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=F8FBFF&text_color=D9E6F2&layout=compact" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=0B132B&text_color=3A506B&layout=compact" />
+    <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=0B132B&text_color=3A506B&layout=compact" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tycholoke&theme=transparent&hide_border=true&stroke=0B132B&ring=F4B942&fire=F4B942&currStreakLabel=0B132B&sideLabels=3A506B&currStreakNum=0B132B&sideNums=3A506B" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tycholoke&hide_border=true&background=00000000&stroke=00000000&ring=5BC0BE&fire=5BC0BE&currStreakLabel=F8FBFF&sideLabels=D9E6F2&currStreakNum=F8FBFF&sideNums=D9E6F2&dates=8AA0B8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tycholoke&hide_border=true&background=00000000&stroke=00000000&ring=F4B942&fire=F4B942&currStreakLabel=0B132B&sideLabels=3A506B&currStreakNum=0B132B&sideNums=3A506B&dates=6B7C93" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tycholoke&hide_border=true&background=00000000&stroke=00000000&ring=F4B942&fire=F4B942&currStreakLabel=0B132B&sideLabels=3A506B&currStreakNum=0B132B&sideNums=3A506B&dates=6B7C93" alt="GitHub streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=ffffff00&color=0B132B&line=5BC0BE&point=F4B942&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=00000000&color=F8FBFF&line=5BC0BE&point=F4B942&area=true&hide_border=true&area_color=5BC0BE22&custom_title=Contribution%20Activity" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=ffffff00&color=0B132B&line=5BC0BE&point=F4B942&area=true&hide_border=true&area_color=5BC0BE22&custom_title=Contribution%20Activity" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=ffffff00&color=0B132B&line=5BC0BE&point=F4B942&area=true&hide_border=true&area_color=5BC0BE22&custom_title=Contribution%20Activity" alt="Contribution graph" />
+  </picture>
 </p>
