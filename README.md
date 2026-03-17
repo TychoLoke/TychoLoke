@@ -1,88 +1,134 @@
-<h1 align="center">Hi, I'm Tycho Loke</h1>
-<h3 align="center">Builder for the Microsoft Community and the Game Hosting Community</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:5BC0BE&height=220&section=header&text=Tycho%20Loke&fontSize=52&fontColor=F8FBFF&fontAlignY=38&desc=Building%20Microsoft%20solutions%2C%20AI-enabled%20products%2C%20web%20portals%2C%20and%20hosting%20platforms.&descAlignY=60&descSize=18" />
+
+<h3 align="center">Co-Founder, operator, channel engineer, and founder across Microsoft, AI, SaaS, and game hosting.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tycholoke&label=Profile%20views&color=0B132B&style=flat" alt="tycholoke" />
-</p>
-
-<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=tycholoke">
+    <img src="https://komarev.com/ghpvc/?username=tycholoke&label=Profile%20views&color=0B132B&style=flat" alt="tycholoke" />
+  </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tycholoke&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1" alt="tycholoke trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tycholoke&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="tycholoke trophies" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://serverwave.com"><img src="https://img.shields.io/badge/Serverwave-0B132B?style=for-the-badge&logoColor=white" alt="Serverwave" /></a>
+  <a href="https://skynode.pro"><img src="https://img.shields.io/badge/Skynode-1C2541?style=for-the-badge&logoColor=white" alt="Skynode" /></a>
+  <a href="https://tycholoke.com"><img src="https://img.shields.io/badge/Tycho_Loke-F4B942?style=for-the-badge&logoColor=0B132B" alt="Tycho Loke" /></a>
+  <a href="https://www.linkedin.com/in/tycholoke"><img src="https://img.shields.io/badge/LinkedIn-5BC0BE?style=for-the-badge&logo=linkedin&logoColor=0B132B" alt="LinkedIn" /></a>
+  <a href="https://x.com/TychoLoke"><img src="https://img.shields.io/badge/X-EAF6FF?style=for-the-badge&logo=x&logoColor=0B132B" alt="X" /></a>
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="52%">
+
+### What I Do
+
 - Co-Founder and Owner at **[Serverwave](https://serverwave.com)**
-- Channel Pre-Sales Solutions Engineer at **AvePoint**
 - Chief Operations Manager at **[Skynode](https://skynode.pro)**
+- Channel Pre-Sales Solutions Engineer at **AvePoint**
 - Executive Council Member Benelux at **GTIA**
 - Founder of **Above The Stack**
 - Founder of **[Tycho Loke](https://tycholoke.com)**
 
-- I build for the **Microsoft ecosystem**, the **partner/MSP space**, and the **game hosting community**
-- Most of my work sits around **Microsoft 365**, **Azure**, **security**, **hosting platforms**, **operations**, and **channel execution**
+I build for the **Microsoft Community**, the **partner and MSP space**, and the **game hosting community**.
 
-<h3 align="left">Ventures and Links:</h3>
-<p align="left">
-  <a href="https://serverwave.com" target="_blank"><img src="https://img.shields.io/badge/Serverwave-1C2541?style=for-the-badge&logoColor=white" alt="Serverwave" /></a>
-  <a href="https://skynode.pro" target="_blank"><img src="https://img.shields.io/badge/Skynode-3A506B?style=for-the-badge&logoColor=white" alt="Skynode" /></a>
-  <a href="https://tycholoke.com" target="_blank"><img src="https://img.shields.io/badge/Tycho_Loke-F4B942?style=for-the-badge&logoColor=black" alt="Tycho Loke" /></a>
-  <a href="https://www.linkedin.com/in/tycholoke" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-5BC0BE?style=for-the-badge&logo=linkedin&logoColor=0B132B" alt="LinkedIn" /></a>
-  <a href="https://x.com/TychoLoke" target="_blank"><img src="https://img.shields.io/badge/X-E9F1F7?style=for-the-badge&logo=x&logoColor=0B132B" alt="X" /></a>
-  <a href="mailto:tycho.loke@peoplerock.nl"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logoColor=white" alt="Email" /></a>
-</p>
+My work usually lands at the intersection of **AI**, **vibe coding**, **websites**, **customer portals**, **Microsoft cloud**, **security**, and **operational platforms**.
 
-<h3 align="left">Focus Areas:</h3>
+  </td>
+    <td valign="top" width="48%">
+
+### Current Focus
 
 ```yaml
 communities:
-  - Microsoft Community
-  - Game Hosting Community
+  - Microsoft
+  - MSP and partner
+  - game hosting
 
-companies:
-  - Serverwave
-  - Skynode
-  - Above The Stack
-  - Tycho Loke
+building:
+  - AI-assisted workflows
+  - websites and portals
+  - Microsoft solutions
+  - hosting platforms
 
-focus:
+stack:
   - Microsoft 365
   - Azure
-  - Security
-  - Channel pre-sales
-  - Operations
-  - Hosting infrastructure
-  - Founder-led products and platforms
+  - Power Platform
+  - TypeScript
+  - Go
+  - Python
 ```
 
-<h3 align="left">Languages and Tools:</h3>
+  </td>
+  </tr>
+</table>
+
+### Focus Areas
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Builders-0B132B?style=flat-square&logo=openai&logoColor=white" alt="AI builders" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-1C2541?style=flat-square&logo=github&logoColor=white" alt="Vibe coding" />
+  <img src="https://img.shields.io/badge/Websites-3A506B?style=flat-square&logo=googlechrome&logoColor=white" alt="Websites" />
+  <img src="https://img.shields.io/badge/Portals-5BC0BE?style=flat-square&logo=windows&logoColor=0B132B" alt="Portals" />
+  <img src="https://img.shields.io/badge/Microsoft%20Cloud-D83B01?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft cloud" />
+  <img src="https://img.shields.io/badge/Game%20Hosting-2D3142?style=flat-square&logo=steam&logoColor=white" alt="Game hosting" />
+</p>
+
+### Languages and Tools
+
 <p align="left">
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" /></a>
-  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/M365-D83B01?style=for-the-badge" alt="microsoft 365" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40" /></a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="42" height="42" /></a>
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge" alt="Microsoft 365" /></a>
+  <a href="https://powerplatform.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge" alt="Power Platform" /></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" alt="PowerShell" /></a>
+  <a href="https://www.microsoft.com/windows-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge" alt="Windows Server" /></a>
+  <a href="https://learn.microsoft.com/en-us/mem/intune/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Intune-2F2F2F?style=for-the-badge" alt="Intune" /></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tycholoke&show_icons=true&theme=transparent&title_color=0B132B&text_color=3A506B&locale=en&layout=compact" alt="Top languages" />
+<p align="left">
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-0B132B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Copilot-171515?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" /></a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="42" height="42" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="42" height="42" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tycholoke&show_icons=true&theme=transparent&title_color=0B132B&icon_color=F4B942&text_color=3A506B&locale=en&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="42" height="42" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tycholoke&theme=transparent&hide_border=true&stroke=0B132B&ring=F4B942&fire=F4B942&currStreakLabel=0B132B&sideLabels=3A506B&currStreakNum=0B132B&sideNums=3A506B" alt="GitHub streak" />
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="42" height="42" /></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=ffffff00&color=0B132B&line=5BC0BE&point=F4B942&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+### GitHub Snapshot
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tycholoke&show_icons=true&theme=transparent&hide_border=true&title_color=0B132B&icon_color=F4B942&text_color=3A506B&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tycholoke&show_icons=true&theme=transparent&hide_border=true&title_color=0B132B&text_color=3A506B&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tycholoke&theme=transparent&hide_border=true&stroke=0B132B&ring=F4B942&fire=F4B942&currStreakLabel=0B132B&sideLabels=3A506B&currStreakNum=0B132B&sideNums=3A506B" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=ffffff00&color=0B132B&line=5BC0BE&point=F4B942&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
 </p>
