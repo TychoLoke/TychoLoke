@@ -1,195 +1,157 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=&fontSize=0&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:f8f9fa,50:e9ecef,100:dee2e6&height=300&section=header&text=&fontSize=0&animation=fadeIn" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=&fontSize=0&animation=fadeIn" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:1C2541,100:3A506B&height=220&section=header&text=Tycho%20Loke&fontSize=54&fontColor=F4F7FB&fontAlignY=42&desc=Founder%2C%20operator%2C%20channel%20engineer%2C%20and%20builder%20for%20Microsoft%20and%20game%20hosting%20communities.&descAlignY=63&descSize=18" />
 
-<div align="center">
+## Builder Across Microsoft, Hosting, and Operations
 
-# Tycho Loke
+I work across multiple companies and communities where Microsoft cloud, channel growth, game hosting, and operational execution overlap.
 
-<br>
+That includes building companies, supporting pre-sales and solution strategy, running operations, contributing to the Microsoft community, working in the game hosting space through Serverwave and Skynode, contributing to GTIA in Benelux, and creating platforms under my own brands.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=24&duration=3500&pause=1200&color=E8B931&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=35&lines=Channel+Strategist;MSP+Advisor;Microsoft+Cloud+Expert;Speaker+%26+Trainer)](https://tycholoke.com)
-
-<br>
-
-<a href="https://tycholoke.com"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tycholoke"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/TychoLoke"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-```
-Founder @ Tycho Loke Consulting  •  Netherlands  •  Helping MSPs Modernize & Grow
-```
-
-</div>
-
-<br>
+<p>
+  <a href="https://tycholoke.com"><img src="https://img.shields.io/badge/Website-F4B942?style=for-the-badge&labelColor=0B132B&color=F4B942&logoColor=0B132B" /></a>
+  <a href="https://www.linkedin.com/in/tycholoke"><img src="https://img.shields.io/badge/LinkedIn-5BC0BE?style=for-the-badge&labelColor=0B132B&color=5BC0BE&logo=linkedin&logoColor=0B132B" /></a>
+  <a href="https://x.com/TychoLoke"><img src="https://img.shields.io/badge/X-E9F1F7?style=for-the-badge&labelColor=0B132B&color=E9F1F7&logo=x&logoColor=0B132B" /></a>
+  <a href="mailto:tycho.loke@peoplerock.nl"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&labelColor=0B132B&color=FF6B6B&logoColor=0B132B" /></a>
+</p>
 
 ---
 
-<br>
+### Positioning
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-
-### What I Do
-
-<br>
-
-```yaml
-role: Channel Strategist & MSP Advisor
-
-expertise:
-  - Microsoft 365 & Azure Architecture
-  - Cloud Security & Compliance
-  - MSP Business Transformation
-  - Channel Strategy & Enablement
-
-services:
-  - Strategic Advisory
-  - Keynote Speaking
-  - Training & Workshops
-  - Microsoft Consulting
+```text
+Co-Founder, owner, founder, channel engineer, and operations leader across Microsoft and game hosting communities.
 ```
 
-</td>
-<td width="50%" valign="top">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-### Focus Areas
+### Current Roles
 
-<br>
+- Co-Founder and Owner at Serverwave
+- Channel Pre-Sales Solutions Engineer at AvePoint
+- Chief Operations Manager at Skynode
+- Executive Council Member Benelux at GTIA
+- Founder of Above The Stack
+- Founder of Tycho Loke
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-5C2D91?style=flat-square&logo=security&logoColor=white" />
+  </td>
+    <td valign="top" width="50%">
 
-<br><br>
+### What That Means
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+- Building and scaling cloud and hosting-focused businesses
+- Supporting Microsoft channel and partner sales with technical depth
+- Leading operations across infrastructure, platforms, and service delivery
+- Connecting strategy, execution, and community leadership
+- Translating Microsoft and hosting platform capability into real business outcomes
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
 
-<br>
+---
+
+### Working Style
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+**Strategic**
+
+I work on company direction, positioning, partnerships, and long-term execution.
+
+  </td>
+    <td valign="top" width="33%">
+
+**Technical**
+
+I stay close to Microsoft 365, Azure, security, hosting infrastructure, and solution architecture.
+
+  </td>
+    <td valign="top" width="33%">
+
+**Practical**
+
+I prefer work that ships, enables teams, and improves how businesses operate.
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-<br>
+### Tools and Platforms
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra_ID-4B53BC?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Defender-5C2D91?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intune-2F2F2F?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/AvePoint-E84C3D?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/GTIA-0B132B?style=flat-square&logoColor=white" />
+</p>
 
-### Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=go,ts,js,python,rust,cs&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,svelte,tailwind&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,graphql,git,vscode&theme=dark" />
-
-</div>
-
-<br>
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Hosting-1C2541?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+</p>
 
 ---
 
-<br>
+### Current Focus
 
-<div align="center">
+```yaml
+companies:
+  - Serverwave
+  - Skynode
+  - Above The Stack
+  - Tycho Loke
 
-### GitHub Analytics
+roles:
+  - channel pre-sales
+  - operations leadership
+  - founder-led execution
+  - community leadership
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tycho-lokes-projects.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8B931&icon_color=E8B931&text_color=ffffff&include_all_commits=true&count_private=true&hide_title=true&hide_rank=false&card_width=450" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tycho-lokes-projects.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a1a2e&icon_color=E8B931&text_color=1a1a2e&include_all_commits=true&count_private=true&hide_title=true&hide_rank=false&card_width=450" />
-  <img src="https://github-readme-stats-tycho-lokes-projects.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8B931&icon_color=E8B931&text_color=ffffff&include_all_commits=true&count_private=true&hide_title=true&hide_rank=false&card_width=450" />
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=tycholoke&hide_border=true&background=00000000&ring=E8B931&fire=E8B931&currStreakLabel=E8B931&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=tycholoke&hide_border=true&background=00000000&ring=E8B931&fire=E8B931&currStreakLabel=1a1a2e&sideLabels=1a1a2e&currStreakNum=1a1a2e&sideNums=1a1a2e&dates=666666" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tycholoke&hide_border=true&background=00000000&ring=E8B931&fire=E8B931&currStreakLabel=E8B931&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-</picture>
-
-</div>
-
-<br>
+themes:
+  - Microsoft community projects
+  - Microsoft cloud and security
+  - game hosting platforms
+  - partner and MSP growth
+  - operational excellence
+  - execution over noise
+```
 
 ---
 
-<br>
+### GitHub Snapshot
 
-<div align="center">
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tycholoke&show_icons=true&hide_border=true&bg_color=00000000&title_color=0B132B&icon_color=F4B942&text_color=3A506B&rank_icon=percentile&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tycholoke&layout=compact&hide_border=true&bg_color=00000000&title_color=0B132B&text_color=3A506B" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=00000000&color=E8B931&line=E8B931&point=ffffff&area=true&hide_border=true&area_color=E8B93115&custom_title=Contribution%20Graph" width="95%" />
-
-</div>
-
-<br>
+<p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tycholoke&bg_color=ffffff00&color=1C2541&line=5BC0BE&point=F4B942&area=true&hide_border=true&area_color=5BC0BE22&custom_title=Contribution%20Activity" />
+</p>
 
 ---
 
-<br>
+### If You Landed Here From GitHub
 
-<div align="center">
+You are probably looking at one of three things:
 
-### Let's Connect
+- the work behind Serverwave, Skynode, Above The Stack, or Tycho Loke
+- Microsoft community code, cloud, security, and channel-focused solution work
+- founder-led projects, tooling, and platform experiments
 
-<br>
+If that overlaps with what you're building, start at `tycholoke.com`.
 
-<a href="https://tycholoke.com">
-  <img src="https://img.shields.io/badge/tycholoke.com-E8B931?style=for-the-badge&logoColor=black" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:tycho.loke@peoplerock.nl">
-  <img src="https://img.shields.io/badge/Email_Me-E8B931?style=for-the-badge&logoColor=black" />
-</a>
-
-<br><br>
-
-<sub>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tycholoke&style=flat&color=E8B931&label=)
-
-</sub>
-
-</div>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dee2e6,50:e9ecef,100:f8f9fa&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3A506B,50:1C2541,100:0B132B&height=90&section=footer" />
