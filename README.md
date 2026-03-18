@@ -61,7 +61,33 @@ stack:
   </tr>
 </table>
 
-### Focus Areas
+### Building Themes
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+**AI Builders**
+
+Prompt-driven workflows, agentic tooling, copilots, and practical AI features that actually ship.
+
+  </td>
+    <td valign="top" width="33%">
+
+**Web and Portals**
+
+Modern websites, admin portals, customer experiences, and product surfaces with a clean SaaS feel.
+
+  </td>
+    <td valign="top" width="33%">
+
+**Microsoft and Hosting**
+
+Microsoft cloud platforms, partner solutions, and the hosting infrastructure behind real services.
+
+  </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Builders-0B132B?style=flat-square&logo=openai&logoColor=white" alt="AI builders" />
@@ -72,9 +98,15 @@ stack:
   <img src="https://img.shields.io/badge/Game%20Hosting-2D3142?style=flat-square&logo=steam&logoColor=white" alt="Game hosting" />
 </p>
 
-### Languages and Tools
+### Platform Stack
 
-<p align="left">
+<table>
+  <tr>
+    <td valign="top" width="25%">
+
+**Microsoft**
+
+<p>
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="42" height="42" /></a>
   <a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge" alt="Microsoft 365" /></a>
   <a href="https://powerplatform.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge" alt="Power Platform" /></a>
@@ -83,7 +115,12 @@ stack:
   <a href="https://learn.microsoft.com/en-us/mem/intune/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Intune-2F2F2F?style=for-the-badge" alt="Intune" /></a>
 </p>
 
-<p align="left">
+  </td>
+    <td valign="top" width="25%">
+
+**AI and Frontend**
+
+<p>
   <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenAI-0B132B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Copilot-171515?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" /></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" /></a>
@@ -93,7 +130,12 @@ stack:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 </p>
 
-<p align="left">
+  </td>
+    <td valign="top" width="25%">
+
+**Languages and Data**
+
+<p>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
@@ -103,7 +145,12 @@ stack:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 </p>
 
-<p align="left">
+  </td>
+    <td valign="top" width="25%">
+
+**Platform and Ops**
+
+<p>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="42" height="42" /></a>
@@ -113,7 +160,11 @@ stack:
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
 </p>
 
-### GitHub Snapshot
+  </td>
+  </tr>
+</table>
+
+### Signal from GitHub
 
 <p align="center">
   <picture>
