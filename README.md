@@ -61,13 +61,17 @@ stack:
   </tr>
 </table>
 
-### Featured Open Repos
+### Best Starting Points
 
-- [microsoft-365-current-license-mapper](https://github.com/TychoLoke/microsoft-365-current-license-mapper): PowerShell reporting for Microsoft 365 license visibility, usage, and cleanup.
-- [Basic-AVD-Landing-Zone](https://github.com/TychoLoke/Basic-AVD-Landing-Zone): cost-optimized Azure Virtual Desktop landing zone in Bicep.
-- [Graph-Intune-Script-Exporter](https://github.com/TychoLoke/Graph-Intune-Script-Exporter): export Intune device management scripts through Microsoft Graph.
-- [entra-id-guest-users-exporter](https://github.com/TychoLoke/entra-id-guest-users-exporter): export guest user activity and creation data from Microsoft Entra ID.
-- [Intune-Windows11-CleanSweep](https://github.com/TychoLoke/Intune-Windows11-CleanSweep): Windows cleanup and debloat workflow for Intune-oriented deployments.
+- [microsoft-365-current-license-mapper](https://github.com/TychoLoke/microsoft-365-current-license-mapper): the strongest repo here for Microsoft 365 license reporting, cleanup, and tenant visibility.
+- [Basic-AVD-Landing-Zone](https://github.com/TychoLoke/Basic-AVD-Landing-Zone): an Azure Virtual Desktop landing zone built for fast deployment and practical demo environments.
+- [entra-id-guest-users-exporter](https://github.com/TychoLoke/entra-id-guest-users-exporter): export guest access and activity data from Microsoft Entra ID for governance review.
+
+### Admin Automation
+
+- [azure-ad-empty-groups-exporter](https://github.com/TychoLoke/azure-ad-empty-groups-exporter): identify empty groups and optional nested membership cases before cleanup.
+- [Graph-Intune-Script-Exporter](https://github.com/TychoLoke/Graph-Intune-Script-Exporter): export Intune scripts safely through Microsoft Graph with read-only defaults.
+- [Sync-Mobile-Phone-AAD-SPO](https://github.com/TychoLoke/Sync-Mobile-Phone-AAD-SPO): sync Entra mobile phone data into SharePoint profile properties.
 
 ### Building Themes
 
