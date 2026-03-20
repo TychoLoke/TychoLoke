@@ -63,6 +63,8 @@ stack:
 
 ### Best Starting Points
 
+The public repo set here is now intentionally centered on Microsoft admin automation, reporting, governance, and practical Azure infrastructure demos.
+
 - [microsoft-365-current-license-mapper](https://github.com/TychoLoke/microsoft-365-current-license-mapper): the strongest repo here for Microsoft 365 license reporting, cleanup, and tenant visibility.
 - [Basic-AVD-Landing-Zone](https://github.com/TychoLoke/Basic-AVD-Landing-Zone): an Azure Virtual Desktop landing zone built for fast deployment and practical demo environments.
 - [entra-id-guest-users-exporter](https://github.com/TychoLoke/entra-id-guest-users-exporter): export guest access and activity data from Microsoft Entra ID for governance review.
