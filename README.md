@@ -72,6 +72,7 @@ stack:
 - [azure-ad-empty-groups-exporter](https://github.com/TychoLoke/azure-ad-empty-groups-exporter): identify empty groups and optional nested membership cases before cleanup.
 - [Graph-Intune-Script-Exporter](https://github.com/TychoLoke/Graph-Intune-Script-Exporter): export Intune scripts safely through Microsoft Graph with read-only defaults.
 - [Sync-Mobile-Phone-AAD-SPO](https://github.com/TychoLoke/Sync-Mobile-Phone-AAD-SPO): sync Entra mobile phone data into SharePoint profile properties.
+- [powershell-admin-helpers](https://github.com/TychoLoke/powershell-admin-helpers): shared helper module for reusable PowerShell automation building blocks.
 
 ### Building Themes
 
