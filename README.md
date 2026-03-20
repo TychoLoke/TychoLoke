@@ -61,6 +61,14 @@ stack:
   </tr>
 </table>
 
+### Featured Open Repos
+
+- [microsoft-365-current-license-mapper](https://github.com/TychoLoke/microsoft-365-current-license-mapper): PowerShell reporting for Microsoft 365 license visibility, usage, and cleanup.
+- [Basic-AVD-Landing-Zone](https://github.com/TychoLoke/Basic-AVD-Landing-Zone): cost-optimized Azure Virtual Desktop landing zone in Bicep.
+- [Graph-Intune-Script-Exporter](https://github.com/TychoLoke/Graph-Intune-Script-Exporter): export Intune device management scripts through Microsoft Graph.
+- [entra-id-guest-users-exporter](https://github.com/TychoLoke/entra-id-guest-users-exporter): export guest user activity and creation data from Microsoft Entra ID.
+- [Intune-Windows11-CleanSweep](https://github.com/TychoLoke/Intune-Windows11-CleanSweep): Windows cleanup and debloat workflow for Intune-oriented deployments.
+
 ### Building Themes
 
 <table>
