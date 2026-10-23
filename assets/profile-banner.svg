@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
 <title id="title">Tycho Löke — Microsoft expertise. Channel impact.</title>
-<desc id="desc">Global Product Marketing Manager, Channel Business at AvePoint. Azure, Modern Work and Intune.</desc>
+<desc id="desc">Global Technical Product Marketing Manager, Channel at AvePoint. Azure, Modern Work and Intune.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1222"/><stop offset="1" stop-color="#13213B"/></linearGradient>
 <radialGradient id="glow"><stop stop-color="#218CBA" stop-opacity=".3"/><stop offset="1" stop-color="#218CBA" stop-opacity="0"/></radialGradient>
@@ -15,8 +15,8 @@
 <text x="116" y="69" fill="#A9BAD3" font-size="15" font-weight="600" letter-spacing="3">CLOUD / CHANNEL / PRODUCT</text>
 <text x="60" y="164" fill="#F5F8FF" font-size="76" font-weight="700" letter-spacing="-3">Tycho Löke</text>
 <text x="64" y="216" fill="url(#accent)" font-size="29" font-weight="600">Microsoft expertise. Channel impact.</text>
-<text x="64" y="277" fill="#E0E8F5" font-size="21">Global Product Marketing Manager</text>
-<text x="64" y="311" fill="#A9BAD3" font-size="21">Channel Business at <tspan fill="#FFAA85" font-weight="600">AvePoint</tspan></text>
+<text x="64" y="277" fill="#E0E8F5" font-size="21">Global Technical Product Marketing Manager</text>
+<text x="64" y="311" fill="#A9BAD3" font-size="21">Channel at <tspan fill="#FFAA85" font-weight="600">AvePoint</tspan></text>
 <g transform="translate(64 355)" font-size="14" font-weight="600" letter-spacing="1">
 <rect width="93" height="32" rx="16" fill="#67E8F9" fill-opacity=".09" stroke="#67E8F9" stroke-opacity=".22"/><text x="23" y="21" fill="#9CECF5">AZURE</text>
 <rect x="105" width="167" height="32" rx="16" fill="#A5B4FC" fill-opacity=".09" stroke="#A5B4FC" stroke-opacity=".22"/><text x="127" y="21" fill="#C4CDFF">MODERN WORK</text>

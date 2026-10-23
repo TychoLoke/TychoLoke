@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Tycho Löke — Microsoft expertise. Channel impact. Global Product Marketing Manager, Channel Business at AvePoint. Azure, Modern Work and Intune." />
+  <img src="assets/profile-banner.svg" width="100%" alt="Tycho Löke — Microsoft expertise. Channel impact. Global Technical Product Marketing Manager, Channel at AvePoint. Azure, Modern Work and Intune." />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### Turning technical depth into a clear product story.
 
-I'm **Tycho**, Global Product Marketing Manager for the **Channel Business at AvePoint**, with expertise in **Microsoft Azure, Modern Work, and Intune**.
+I'm **Tycho**, Global Technical Product Marketing Manager, Channel at **AvePoint**, with expertise in **Microsoft Azure, Modern Work, and Intune**.
 
 I connect hands-on Microsoft experience with product positioning, partner enablement, and practical technical content—helping partners understand the platform, explain its value, and put it to work.
 
