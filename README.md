@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Tycho Löke — Microsoft expertise. Channel impact. Global Technical Product Marketing Manager, Channel at AvePoint. Azure, Modern Work and Intune." />
+  <img src="assets/profile-banner-channel.svg" width="100%" alt="Tycho Löke — Microsoft expertise. Channel impact. Global Technical Product Marketing Manager, Channel at AvePoint. Azure, Modern Work and Intune." />
 </p>
 
 <p align="center">
